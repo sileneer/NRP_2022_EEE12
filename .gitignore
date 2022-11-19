@@ -1,5 +1,6 @@
 # user added
-/.idea
+.idea
+Oxford_Battery_Degradation_Dataset_1.mat
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
