@@ -8,15 +8,15 @@
 
 ### Download the dataset
 
-This project use the open source dataset ![Oxford Battery Degradation Dataset 1](https://ora.ox.ac.uk/objects/uuid:03ba4b01-cfed-46d3-9b1a-7d4a7bdf6fac). 
+This project use the open source dataset [Oxford Battery Degradation Dataset 1](https://ora.ox.ac.uk/objects/uuid:03ba4b01-cfed-46d3-9b1a-7d4a7bdf6fac). 
 
 > These data are copyright (c) 2017, The Chancellor, Masters and Scholars of the University of Oxford, and the 'Oxford Battery Degradation Dataset 1' researchers. All rights reserved.
 
 > This 'Oxford Battery Degradation Dataset 1' is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
 
-The ![Readme](https://github.com/sileneer/NRP_2022_EEE12/blob/main/datasets/Readme.txt) file for the dataset can be found under `./datasets/Readme.txt`
+The [Readme](https://github.com/sileneer/NRP_2022_EEE12/blob/main/datasets/Readme.txt) file for the dataset can be found under `./datasets/Readme.txt`
 
-![Download](https://ora.ox.ac.uk/objects/uuid:03ba4b01-cfed-46d3-9b1a-7d4a7bdf6fac/files/m5ac36a1e2073852e4f1f7dee647909a7) the datasets before training and testing, and put the file `Oxford_Battery_Degradation_Dataset_1.mat` under `./datasets`.
+[Download](https://ora.ox.ac.uk/objects/uuid:03ba4b01-cfed-46d3-9b1a-7d4a7bdf6fac/files/m5ac36a1e2073852e4f1f7dee647909a7) the datasets before training and testing, and put the file `Oxford_Battery_Degradation_Dataset_1.mat` under `./datasets`.
 
 ### Setup
 
