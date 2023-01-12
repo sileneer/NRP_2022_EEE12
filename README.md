@@ -4,8 +4,8 @@ This project is under Nanyang Research Programme (NRP) by Nanyang Technological 
 
 ## Description 
 
-> Li-Ion batteries are increasing in usage due to the aim of sustainable development and other benefits it provides as compared to other batteries. Being able to predict the SOH of Li-Ion Batteries has also grown in importance, and the method of data-driven model online state-of-health (SOH) prediction is an efficient way of completing the task necessary. **We proposed a simple and effective ML framework with long short-term memory (LSTM) and Gated Recurrent Unit (GRU) model for this situation to predict SOH, avoiding the problems of high complexity, low interpretability, and high training costs. Predictions made using GRU have shown to be of high accuracy with an average root mean squared error (RMSE) of 0.724%.** Furthermore, the GRU model takes significantly less time to train and evaluate. This shows the high efficiency of our proposed model, and it can be scaled to a larger size of the training dataset, allowing predictions to be of higher accuracy.
-
+> Li-Ion batteries are increasing in usage due to the aim of sustainable development and other benefits it provides as compared to other batteries. Being able to predict the SOH of Li-Ion Batteries has also grown in importance, and the method of data-driven model online state-of-health (SOH) prediction is an efficient way of completing the task necessary. **We proposed a simple and effective ML framework with long short-term memory (LSTM) and Gated Recurrent Unit (GRU) model for this situation to predict SOH, avoiding the problems of high complexity, low interpretability, and high training costs. Predictions made using GRU have shown to be of high accuracy with an average root mean squared error (RMSE) of 0.724%.**
+ 
 ## Getting Start
 
 ### Download the dataset
