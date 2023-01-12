@@ -1,4 +1,6 @@
-# NRP_2022_EEE12: Data-Driven Method for Li-Ion Battery Health Monitoring
+# Data-Driven Method for Li-Ion Battery Health Monitoring
+
+This project is under Nanyang Research Programme (NRP) by Nanyang Technological University (NTU), Singapore. The project code is EEE12 (2022). 
 
 ## Project Abstract
 
