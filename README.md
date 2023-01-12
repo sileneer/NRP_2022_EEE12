@@ -8,7 +8,7 @@
 
 ### Download the dataset
 
-This project use the open source dataset [Oxford Battery Degradation Dataset 1](https://ora.ox.ac.uk/objects/uuid:03ba4b01-cfed-46d3-9b1a-7d4a7bdf6fac). 
+This project use the open source dataset [Oxford Battery Degradation Dataset 1](https://ora.ox.ac.uk/objects/uuid:03ba4b01-cfed-46d3-9b1a-7d4a7bdf6fac) [1]. 
 
 > These data are copyright (c) 2017, The Chancellor, Masters and Scholars of the University of Oxford, and the 'Oxford Battery Degradation Dataset 1' researchers. All rights reserved.
 
@@ -47,6 +47,6 @@ This project use open source library [Pytorch](https://pytorch.org/) to build th
 
 This project is licensed under the [MIT LICENCE](https://github.com/sileneer/NRP_2022_EEE12/blob/main/LICENCE)
 
-We appreciate David Howey and Christoph Birkl for their work in collecting the datasets `Oxford_Battery_Degradation_Dataset_1` [1], and their research at https://scholar.google.co.uk/citations?hl=en&user=AZdBXIkAAAAJ&view_op=list_works&sortby=pubdate. 
+We appreciate David Howey and Christoph Birkl for their work in collecting the datasets `Oxford_Battery_Degradation_Dataset_1`, and their research at https://scholar.google.co.uk/citations?hl=en&user=AZdBXIkAAAAJ&view_op=list_works&sortby=pubdate. 
 
 [1] Christoph R. Birkl, "Diagnosis and Prognosis of Degradation in Lithium-Ion Batteries", PhD thesis, Department of Engineering Science, University of Oxford, 2017. 
