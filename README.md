@@ -1,1 +1,33 @@
-# NRP_2022_EEE12
+# NRP_2022_EEE12: Data-Driven Method for Li-Ion Battery Health Monitoring
+
+## Project Abstract
+
+> Li-Ion batteries are increasing in usage due to the aim of sustainable development and other benefits it provides as compared to other batteries. Being able to predict the SOH of Li-Ion Batteries has also grown in importance, and the method of data-driven model online state-of-health (SOH) prediction is an efficient way of completing the task necessary. After gathering proposed methods from different sources, they can be generally classified into estimation using HI and Machine Learning (ML) based predictions. ML-based predictions are a more effective method in this situation due to the complexities in the usage of HI from the interactions between different aspects of the battery. The framework of our proposed strategy involves preprocessing relevant data which only uses the battery’s charge as a predictor and building a model using extracted data from previous charging and discharging curves of Li-Ion batteries to build a model that makes predictions of real-time data. **We proposed a simple and effective ML framework with long short-term memory (LSTM) and Gated Recurrent Unit (GRU) model for this situation to predict SOH, avoiding the problems of high complexity, low interpretability, and high training costs. Predictions made using GRU have shown to be of high accuracy with an average root mean squared error (RMSE) of 0.724%.** Furthermore, the GRU model takes significantly less time to train and evaluate. This shows the high efficiency of our proposed model, and it can be scaled to a larger size of the training dataset, allowing predictions to be of higher accuracy.
+
+## Getting Start
+
+### Download the dataset
+
+This project use the open source dataset ![Oxford Battery Degradation Dataset 1](https://ora.ox.ac.uk/objects/uuid:03ba4b01-cfed-46d3-9b1a-7d4a7bdf6fac). 
+
+> These data are copyright (c) 2017, The Chancellor, Masters and Scholars of the University of Oxford, and the 'Oxford Battery Degradation Dataset 1' researchers. All rights reserved.
+
+> This 'Oxford Battery Degradation Dataset 1' is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
+
+The ![Readme](https://github.com/sileneer/NRP_2022_EEE12/blob/main/datasets/Readme.txt) file for the dataset can be found under `./datasets/Readme.txt`
+
+![Download](https://ora.ox.ac.uk/objects/uuid:03ba4b01-cfed-46d3-9b1a-7d4a7bdf6fac/files/m5ac36a1e2073852e4f1f7dee647909a7) the datasets before training and testing, and put the file `Oxford_Battery_Degradation_Dataset_1.mat` under `./datasets`.
+
+### Setup
+
+To set up the project, create a virtual environment based on Python 3.10 with Jupyter-Notebook. Activate the virtual environment and run:
+
+```
+pip install -r requirements.txt
+```
+
+## Acknowledgement 
+
+We appreciate David Howey and Christoph Birkl for their work in collecting the datasets `Oxford_Battery_Degradation_Dataset_1` [1], and their research at https://scholar.google.co.uk/citations?hl=en&user=AZdBXIkAAAAJ&view_op=list_works&sortby=pubdate. 
+
+[1] Christoph R. Birkl, "Diagnosis and Prognosis of Degradation in Lithium-Ion Batteries", PhD thesis, Department of Engineering Science, University of Oxford, 2017. 
