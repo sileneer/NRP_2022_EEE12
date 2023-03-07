@@ -1,7 +1,5 @@
 # Data-Driven Method for Li-Ion Battery Health Monitoring
 
-This project is under Nanyang Research Programme (NRP) 2022. The project code is EEE12. 
-
 ## Description 
 
 Li-Ion batteries are increasing in usage due to the aim of sustainable development and other benefits it provides as compared to other batteries. Being able to predict the SOH of Li-Ion Batteries has also grown in importance, and the method of data-driven model online state-of-health (SOH) prediction is an efficient way of completing the task necessary. **We proposed a simple and effective ML framework with long short-term memory (LSTM) and Gated Recurrent Unit (GRU) model for this situation to predict SOH, avoiding the problems of high complexity, low interpretability, and high training costs. Predictions made using GRU have shown to be of high accuracy with an average root mean squared error (RMSE) of 0.724%.**
