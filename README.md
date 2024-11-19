@@ -1,5 +1,9 @@
 # Data-Driven Method for Li-Ion Battery Health Monitoring
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=sileneer/NRP_2022_EEE12&type=Date)](https://star-history.com/#sileneer/NRP_2022_EEE12&Date)
+
 ## Description 
 
 Li-Ion batteries are increasing in usage due to the aim of sustainable development and other benefits it provides as compared to other batteries. Being able to predict the SOH of Li-Ion Batteries has also grown in importance, and the method of data-driven model online state-of-health (SOH) prediction is an efficient way of completing the task necessary. **We proposed a simple and effective ML framework with long short-term memory (LSTM) and Gated Recurrent Unit (GRU) model for this situation to predict SOH, avoiding the problems of high complexity, low interpretability, and high training costs. Predictions made using GRU have shown to be of high accuracy with an average root mean squared error (RMSE) of 0.724%.**
